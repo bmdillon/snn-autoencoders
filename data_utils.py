@@ -8,7 +8,7 @@ def get_cms_data( num_events_per_class=20000, add_one_hot=False, pt_norm_method 
 
     # paths
     sm_file = "/home/b/Physics/snn-anomalies/data/background_for_training.h5"
-    h0_file = "/home/b/Physics/snn-anomalies//home/b/Physics/snn-anomalies/data/hToTauTau_13TeV_PU20_filtered.h5"
+    h0_file = "/home/b/Physics/snn-anomalies/data/hToTauTau_13TeV_PU20_filtered.h5"
     hc_file = "/home/b/Physics/snn-anomalies/data/hChToTauNu_13TeV_PU20_filtered.h5"
     a4l_file = "/home/b/Physics/snn-anomalies/data/Ato4l_lepFilter_13TeV_filtered.h5"
     lq_file = "/home/b/Physics/snn-anomalies/data/leptoquark_LOWMASS_lepFilter_13TeV_filtered.h5"
